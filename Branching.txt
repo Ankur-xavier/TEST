@@ -1,1 +1,1 @@
-Appending this file while creating a new branch and merging to main branch in order to understand the branching concepts 
+hello added a new update in Branching to learn about rebase
